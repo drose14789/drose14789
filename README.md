@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20TAEHEE%20PARK's%20Profile!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Soyoung%20Yi's%20Profile!&fontSize=50)
 
 # 🔍 박 태 희 🔎
 
@@ -9,8 +9,8 @@
 # 🔗 LINK
 - **KDT 기업맞춤형 AI-X 교육과정 (824시간)**: Python 기반의 Full-Stack 개발 및 AI 모델링 및 LLM 학습일지와 프로젝트 협업 공간
 [![공부일지](https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/ai)
-[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT[프로젝트명]-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/1st_project)
-[![2차프로젝트](https://img.shields.io/badge/2nd_Project[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ydrose14789/1stProject)
+[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT[서울시 일반음식점 3년 이내 폐업률 예측 모델]-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/1st_project)
+[![2차프로젝트](https://img.shields.io/badge/2nd_Project[여행 루트 프로젝트]-33FF33?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ydrose14789/2nd_Project)
 
 
 # 🛠️ 기술 스택 (Tech Stack)
