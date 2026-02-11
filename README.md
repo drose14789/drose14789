@@ -10,10 +10,9 @@
 - **KDT 기업맞춤형 AI-X 교육과정 (824시간)**: Python 기반의 Full-Stack 개발 및 AI 모델링 및 LLM 학습일지와 프로젝트 협업 공간
 [![공부일지](https://img.shields.io/badge/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/ai)
 
-[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT-%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%9D%BC%EB%B0%98%EC%9D%8C%EC%8B%9D%EC%A0%90%203%EB%85%84%20%EC%9D%B4%EB%82%B4%20%ED%8F%90%EC%97%85%EB%A5%A0%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/1st_project)
+[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT-%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%9D%BC%EB%B0%98%EC%9D%8C%EC%8B%9D%EC%A0%90%203%EB%85%84%20%EC%9D%B4%EB%82%B4%20%ED%8F%90%EC%97%85%EB%A5%A0%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/drose14789/1st_project)
 
-[![2차프로젝트](https://img.shields.io/badge/2nd_Project-%EC%97%AC%ED%96%89%20%EB%A3%A8%ED%8A%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-33FF33?style=for-the-badge&logo=github&logoColor=black)](https://github.com/drose14789/2nd_project)
-
+[![2차프로젝트](https://img.shields.io/badge/2nd_Project-%EC%97%AC%ED%96%89%20%EB%A3%A8%ED%8A%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/drose14789/2nd_project)
 # 🛠️ 기술 스택 (Tech Stack)
 
 | 구분 | 기술 |
