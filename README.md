@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%Taehee%20Park's%20Profile!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Taehee%20Park's%20Profile!&fontSize=50)
 
 # 🔍 박 태 희 🔎
 
