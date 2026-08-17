@@ -9,7 +9,9 @@
 # 🔗 LINK
 [![공부일지](https://img.shields.io/badge/공부일지-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/ai)
 
-[![3차프로젝트](https://img.shields.io/badge/3RD_PROJECT-Ramenyze%20AI%20라면%20인식%20및%20성분%20분석%20시스템-5EEAD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/wlstks1009-coder/yolo_ramen)
+[![2차프로젝트](https://img.shields.io/badge/2ND_PROJECT-ActionFit%20AI%20패션%20셀러를%20위한%20AI%20상품%20진단%20%26%20마케팅%20액션%20추천%20서비스-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/shopping_mall_team_project)
+
+[![3차프로젝트](https://img.shields.io/badge/3RD_PROJECT-Ramenyze%20AI%20라면%20인식%20및%20성분%20분석%20시스템-5EEAD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wlstks1009-coder/yolo_ramen)
 
 [![4차프로젝트](https://img.shields.io/badge/4TH_PROJECT-서울시%20일반음식점%203년%20이내%20폐업률%20예측%20모델-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/1st_project)
 
