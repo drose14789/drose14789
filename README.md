@@ -9,9 +9,9 @@
 # 🔗 LINK
 [![공부일지](https://img.shields.io/badge/공부일지-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/ai)
 
-[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT-서울시%20일반음식점%203년%20이내%20폐업률%20예측%20모델-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/1st_project)
+[![4차프로젝트](https://img.shields.io/badge/1ST_PROJECT-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/1st_project)
 
-[![2차프로젝트](https://img.shields.io/badge/2nd_PROJECT-여행%20루트%20프로젝트-5EEAD4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/drose14789/2nd_project)
+[![5차프로젝트](https://img.shields.io/badge/2ND_PROJECT-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/2nd_project)
 
 # 🛠️ 기술 스택 (Tech Stack)
 
