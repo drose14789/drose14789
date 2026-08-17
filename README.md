@@ -9,7 +9,7 @@
 # 🔗 LINK
 [![공부일지](https://img.shields.io/badge/공부일지-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/ai)
 
-[![1차프로젝트](https://img.shields.io/badge/1ST_PROJECT-할인꿀팁%20위치%20기반%20근접%20푸시%20할인%20쿠폰%20앱-FBBF24?style=for-the-badge&logo=github&logoColor=black)](https://github.com/drose14789/app_project)
+[![1차프로젝트](https://img.shields.io/badge/1ST_PROJECT-할인꿀팁%20위치%20기반%20근접%20푸시%20할인%20쿠폰%20앱-FBBF24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/app_project)
 
 [![2차프로젝트](https://img.shields.io/badge/2ND_PROJECT-ActionFit%20AI%20패션%20셀러를%20위한%20AI%20상품%20진단%20%26%20마케팅%20액션%20추천%20서비스-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drose14789/shopping_mall_team_project) [![AWS](https://img.shields.io/badge/AWS-LIVE%20DEMO-FFB74D?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://actionfit-ai.duckdns.org/)
 
